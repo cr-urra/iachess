@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfdac895.css",
-    "main.js": "/static/js/main.ab412f9d.js",
-    "static/js/787.8b70d9e5.chunk.js": "/static/js/787.8b70d9e5.chunk.js",
-    "index.html": "/index.html",
-    "main.dfdac895.css.map": "/static/css/main.dfdac895.css.map",
-    "main.ab412f9d.js.map": "/static/js/main.ab412f9d.js.map",
-    "787.8b70d9e5.chunk.js.map": "/static/js/787.8b70d9e5.chunk.js.map"
+    "main.css": "/cr-urra.github.io/iachess/static/css/main.dfdac895.css",
+    "main.js": "/cr-urra.github.io/iachess/static/js/main.a230f2a5.js",
+    "static/js/787.8b70d9e5.chunk.js": "/cr-urra.github.io/iachess/static/js/787.8b70d9e5.chunk.js",
+    "index.html": "/cr-urra.github.io/iachess/index.html",
+    "main.dfdac895.css.map": "/cr-urra.github.io/iachess/static/css/main.dfdac895.css.map",
+    "main.a230f2a5.js.map": "/cr-urra.github.io/iachess/static/js/main.a230f2a5.js.map",
+    "787.8b70d9e5.chunk.js.map": "/cr-urra.github.io/iachess/static/js/787.8b70d9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdac895.css",
-    "static/js/main.ab412f9d.js"
+    "static/js/main.a230f2a5.js"
   ]
 }
